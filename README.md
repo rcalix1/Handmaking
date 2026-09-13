@@ -10,6 +10,7 @@
 ## Hardware
 
 * https://www.youtube.com/watch?v=aHFo-7ZK1Bk&list=WL&index=57&t=48s
+* https://www.youtube.com/watch?v=ikjPRgE8WLM&list=WL&index=199
 * 
 
 ## MIT FabLabs
