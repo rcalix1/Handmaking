@@ -7,6 +7,11 @@
 
 * https://www.youtube.com/watch?v=3ZUtePxyuxw
 
+## Hardware
+
+* https://www.youtube.com/watch?v=aHFo-7ZK1Bk&list=WL&index=57&t=48s
+* 
+
 ## MIT FabLabs
 
 * https://fab.cba.mit.edu
