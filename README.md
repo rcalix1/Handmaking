@@ -2,6 +2,11 @@
 
 * Dielectric elastomer actuator (DEA)
 
+## ML and AI models
+
+* https://www.youtube.com/watch?v=2mrGMMmrVNE
+* https://arxiv.org/abs/2307.15818
+
 
 ## Demo of a Tensegrity Soft Robot with Rolled Dielectric Elastomer Actuators
 
