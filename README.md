@@ -7,7 +7,7 @@
 
 * https://www.youtube.com/watch?v=3ZUtePxyuxw
 
-## Hardware
+## Hand Hardware
 
 * https://www.youtube.com/watch?v=aHFo-7ZK1Bk&list=WL&index=57&t=48s
 * https://www.youtube.com/watch?v=ikjPRgE8WLM&list=WL&index=199
@@ -20,7 +20,12 @@
 * https://www.amazon.com/dp/B0FH8CPXP7?lv=shuf&channelId=500&plpRedirect=mhFallback&th=1
 * https://www.seeedstudio.com/SO-101-Low-Cost-AI-Arm-Kit-Pro-p-6427.html?srsltid=AU7gw4WlX8Zphqn6W5Yf_8fI2Nc2KpTBwPvN2sPqjsxLsyX_mWDaXcLV
 * https://www.hiwonder.com/products/lerobot-so-101?variant=42198960144471&srsltid=AU7gw4UCGcuG88IZvXpm300ghbqykE3VYtubk4y2cKraACqn_wzxSDEv
-* 
+
+## LeRobot - SO 101 
+
+* https://huggingface.co/lerobot
+* https://github.com/huggingface/lerobot
+* https://www.seeedstudio.com/SO-101-Low-Cost-AI-Arm-Kit-Pro-p-6427.html?srsltid=AU7gw4U26pNU-oNUcwPdFN05Z8OwmhpNthZ_vYIqjXY5-goc1xI8MAE2
 
 ## MIT FabLabs
 
